@@ -1,1 +1,3 @@
 GIT‚Ì—ûKŠw‚Ñ‚Ü‚·
+git add
+git commit
